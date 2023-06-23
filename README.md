@@ -1,4 +1,4 @@
-# projetoTSPI
+# ProjetoTSPI
 Repositório para o projeto da disciplina de TSPI.
 Criado por Fábio Henrique Nunes. 
 
